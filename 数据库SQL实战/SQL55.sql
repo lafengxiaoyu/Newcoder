@@ -1,0 +1,5 @@
+-- 学会LIMIT以及OFFSET
+SELECT *
+FROM employees
+LIMIT5
+OFFSET 5;
